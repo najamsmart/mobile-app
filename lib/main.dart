@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         brightness: Brightness.dark,
         primaryColor: const Color(0xff3772ff),
         canvasColor: const Color(0xff161618),
-        primaryColorLight: Colors.black,
+        primaryColorLight: Colors.brown,
         primaryColorDark: Colors.black,
         indicatorColor: Colors.white,
         cardColor: const Color(0xff232631),
