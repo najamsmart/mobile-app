@@ -213,7 +213,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                                   const SizedBox(
                                     width: 10,
                                   ),
-                                  const Text("lovely paint")
+                                  const Text("lovely * paint")
                                 ],
                               ),
                             ],
