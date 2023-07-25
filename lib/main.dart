@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(
         brightness: Brightness.dark,
         primaryColor: const Color(0xff3772ff),
-        canvasColor: const Color(#364761),
+        canvasColor: Color.fromARGB(0, 235, 143, 32),
         primaryColorLight: Colors.brown,
         primaryColorDark: Colors.black,
         indicatorColor: Colors.white,
