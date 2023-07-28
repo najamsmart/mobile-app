@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       darkTheme: ThemeData(
         brightness: Brightness.dark,
-        primaryColor: const Color(0xff3772ff),
+        primaryColor: Color.fromARGB(255, 33, 94, 237),
         canvasColor: Color.fromARGB(0, 235, 143, 32),
         primaryColorLight: Colors.brown,
         primaryColorDark: Colors.black,

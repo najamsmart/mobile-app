@@ -61,7 +61,7 @@ class _DetailPageState extends State<DetailPage> {
                         padding: EdgeInsets.all(5.0),
                         child: Icon(
                           Icons.close,
-                          color: Colors.white,
+                          color: Colors.red,
                         ),
                       ),
                     ),
