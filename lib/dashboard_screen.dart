@@ -191,7 +191,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                "MY Paint",
+                                "MY Painting",
                                 style: Theme.of(context)
                                     .textTheme
                                     .titleLarge

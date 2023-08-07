@@ -23,7 +23,7 @@ class _DetailPageState extends State<DetailPage> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          "Overload",
+                          "Overload.....",
                           style: Theme.of(context)
                               .textTheme
                               .titleLarge
@@ -42,7 +42,7 @@ class _DetailPageState extends State<DetailPage> {
                             const SizedBox(
                               width: 10,
                             ),
-                            const Text("awsome paint")
+                            const Text("aewsome paint")
                           ],
                         ),
                       ],
@@ -61,7 +61,7 @@ class _DetailPageState extends State<DetailPage> {
                         padding: EdgeInsets.all(5.0),
                         child: Icon(
                           Icons.close,
-                          color: Colors.red,
+                          color: Colors.green,
                         ),
                       ),
                     ),
@@ -137,7 +137,7 @@ class _DetailPageState extends State<DetailPage> {
                                 SizedBox(
                                   width: 5,
                                 ),
-                                Text("257")
+                                Text("400")
                               ],
                             ),
                           ),
