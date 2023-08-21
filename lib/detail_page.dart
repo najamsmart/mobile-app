@@ -137,7 +137,7 @@ class _DetailPageState extends State<DetailPage> {
                                 SizedBox(
                                   width: 5,
                                 ),
-                                Text("400")
+                                Text("500")
                               ],
                             ),
                           ),
